@@ -87,7 +87,6 @@ University of Manitoba, 2020
 
 - **Email:** [ryanhildebrand@hotmail.ca](mailto:ryanhildebrand@hotmail.ca)
 - **LinkedIn:** [Ryan Hildebrand](https://www.linkedin.com/in/ryan-hildebrand-419b97255/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
 ---
 
