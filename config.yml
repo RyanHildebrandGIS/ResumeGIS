@@ -1,0 +1,35 @@
+# Basic site settings
+title: "Ryan Hildebrand"
+description: "Welcome to my GitHub portfolio! Explore my projects and skills in data analysis, GIS, and remote sensing."
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# Base URL for GitHub Pages
+# Uncomment and set if your repository is not named <username>.github.io
+# baseurl: "/repository-name"
+
+# Optional settings
+markdown: kramdown
+highlighter: rouge
+future: true
+
+# Social links (if applicable)
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/ryan-hildebrand-419b97255/
+  - name: GitHub
+    url: https://github.com/yourusername
+
+# Plugins (if you need any)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Include or exclude files
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
