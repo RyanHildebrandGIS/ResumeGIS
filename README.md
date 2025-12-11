@@ -49,10 +49,59 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 ## Projects
 
 ### [Fiber Management ETL Automation](https://github.com/yourusername/fiber-management-etl)
-*Automated the process of converting and integrating spatial data from various formats for fiber management systems.*
+Project: Valley Fiber – CIB-Backed Manitoba Fibre Deployment
 
-- **Technologies:** Python, ArcGIS, FME
-- **Summary:** Developed an ETL (Extract, Transform, Load) process to handle data conversion and integration for fiber management systems. This involved extracting spatial data from CAD and KMZ formats, adding necessary attribution, validating and modifying geometries, and importing the cleaned and formatted data into fiber management systems. The process ensured data consistency and accuracy, improving overall efficiency in managing fiber optic network projects.
+Name of Customer
+Valley Fiber Ltd. / Canada Infrastructure Bank (CIB) partnership
+
+Project Name
+Manitoba Fibre Broadband Build (CIB Investment)
+
+Year
+2021–2024
+
+Budget
+Approximately CAD 328 million total project budget, including a CAD 164 million investment from CIB and matching private financing. 
+cib-bic.ca
++1
+
+Hours of Implementation
+900
+
+Global Description
+A large-scale broadband infrastructure initiative to deliver high-speed, dedicated fiber-to-the-home connectivity to underserved rural communities across southern Manitoba. The project involves construction of thousands of kilometres of fibre-optic cabling, creation of new network infrastructure, and deployment of reliable broadband services capable of gigabit speeds, improving digital access for residents, businesses, and public services. 
+cib-bic.ca
++1
+
+Role and Personal Contribution
+Acted as Senior GIS Specialist supporting network design, asset data modeling, geospatial workflow automation, and quality control processes throughout the build. Developed and implemented GIS tools and automation that enhanced data accuracy, streamlined engineering deliverables, and reduced manual errors. Led training and coordination for GIS team members to maintain high execution standards across OSP data and mapping deliverables.
+### [Infrastructure and Asset Management Dashboard]
+Name of Customer
+Cal Trans
+
+Project Name
+FieldWatch Central Dataset and Workflow Integration
+
+Year
+2025
+
+Budget
+1.2M (enterprise-wide GIS modernization program including FieldWatch)
+
+Hours of Implementation
+320
+
+Global Description
+Designed and implemented FieldWatch, a unified GIS data framework supporting Transportation Management’s construction, inspection, and operational workflows. The solution standardized schemas, consolidated multiple legacy datasets, and enabled real-time integration with Survey123, custom dashboards, and Experience Builder applications. FieldWatch now serves as the authoritative backbone for field data collection, inspection visibility, and project tracking across the organization.
+
+Role and Personal Contribution
+Led the data model architecture, ArcGIS Enterprise service configuration, and automation workflows. Designed advanced Survey123 forms with conditional logic, dynamic content controls, and schema-driven behavior to streamline field reporting. Developed custom dashboards for operational monitoring and executive oversight, and built Experience Builder applications to deliver interactive, user-focused interfaces for project managers and field teams. Ensured all applications aligned with the central dataset structure, optimized performance across dev/editing/production environments, and implemented governance practices for long-term scalability.
+
+
+
+
+
+
 
 ### [Infrastructure and Asset Management Dashboard](https://github.com/yourusername/infrastructure-dashboard)
 *Aggregated data for infrastructure and asset management planning, focusing on fiber optics and municipal projects.*
