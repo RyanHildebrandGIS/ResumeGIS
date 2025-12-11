@@ -51,31 +51,32 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 ### [Fiber Management ETL Automation](https://github.com/yourusername/fiber-management-etl)
 Project: Valley Fiber – CIB-Backed Manitoba Fibre Deployment
 
-Name of Customer
+**Name of Customer**
 Valley Fiber Ltd. / Canada Infrastructure Bank (CIB) partnership
 
-Project Name
+**Project Name**
 Manitoba Fibre Broadband Build (CIB Investment)
 
-Year
+**Year**
 2021–2024
 
-Budget
+**Budget**
 Approximately CAD 328 million total project budget, including a CAD 164 million investment from CIB and matching private financing. 
-cib-bic.ca
-+1
 
-Hours of Implementation
+**Hours of Implementation**
 900
 
-Global Description
+**Global Description**
 A large-scale broadband infrastructure initiative to deliver high-speed, dedicated fiber-to-the-home connectivity to underserved rural communities across southern Manitoba. The project involves construction of thousands of kilometres of fibre-optic cabling, creation of new network infrastructure, and deployment of reliable broadband services capable of gigabit speeds, improving digital access for residents, businesses, and public services. 
 cib-bic.ca
 +1
 
-Role and Personal Contribution
+**Role and Personal Contribution**
 Acted as Senior GIS Specialist supporting network design, asset data modeling, geospatial workflow automation, and quality control processes throughout the build. Developed and implemented GIS tools and automation that enhanced data accuracy, streamlined engineering deliverables, and reduced manual errors. Led training and coordination for GIS team members to maintain high execution standards across OSP data and mapping deliverables.
 ### [Infrastructure and Asset Management Dashboard]
+
+**SolidCAD Consulting**
+
 Name of Customer
 Cal Trans
 
