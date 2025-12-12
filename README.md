@@ -48,8 +48,8 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 
 ## Projects
 
-### [Fiber Management ETL Automation](https://github.com/yourusername/fiber-management-etl)
-Project: Valley Fiber – CIB-Backed Manitoba Fibre Deployment
+
+**Project: Valley Fiber – CIB-Backed Manitoba Fibre Deployment**
 
 **Name of Customer**
 Valley Fiber Ltd. / Canada Infrastructure Bank (CIB) partnership
@@ -73,7 +73,7 @@ cib-bic.ca
 
 **Role and Personal Contribution**
 Acted as Senior GIS Specialist supporting network design, asset data modeling, geospatial workflow automation, and quality control processes throughout the build. Developed and implemented GIS tools and automation that enhanced data accuracy, streamlined engineering deliverables, and reduced manual errors. Led training and coordination for GIS team members to maintain high execution standards across OSP data and mapping deliverables.
-### [Infrastructure and Asset Management Dashboard]
+
 
 **SolidCAD Consulting**
 
@@ -97,10 +97,6 @@ Designed and implemented FieldWatch, a unified GIS data framework supporting Tra
 
 Role and Personal Contribution
 Led the data model architecture, ArcGIS Enterprise service configuration, and automation workflows. Designed advanced Survey123 forms with conditional logic, dynamic content controls, and schema-driven behavior to streamline field reporting. Developed custom dashboards for operational monitoring and executive oversight, and built Experience Builder applications to deliver interactive, user-focused interfaces for project managers and field teams. Ensured all applications aligned with the central dataset structure, optimized performance across dev/editing/production environments, and implemented governance practices for long-term scalability.
-
-
-
-
 
 
 
